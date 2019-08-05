@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell-extension-caffeine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-05 09:19-0400\n"
+"PO-Revision-Date: 2018-04-04 20:35+0200\n"
+"Last-Translator: Morgan Antonsson <morgan.antonsson@gmail.com>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: menu.js:40
+msgid "Inhibit suspend globally"
+msgstr ""
+
+#: menu.js:137
+msgid "No open windows"
+msgstr ""
+
+#: prefs.js:45
+msgid "Show Caffeine in top panel"
+msgstr "Visa Caffeine i panelen"
+
+#: prefs.js:62 schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:36
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:37
+msgid "Enable when a fullscreen application is running"
+msgstr "Aktivera när ett program använder helskärmsläget"
+
+#: prefs.js:79
+msgid "Restore state across reboots"
+msgstr "Återställ tillstånd efter omstart"
+
+#: prefs.js:96
+msgid ""
+"Address Inhibiting Apps including from system(like playing video via "
+"browser, wouldn't missed any app, but not precisely)"
+msgstr ""
+
+#: prefs.js:113
+msgid "Enable notifications"
+msgstr "Aktivera notifieringar"
+
+#: prefs.js:134
+msgid "Applications which enable Caffeine automatically"
+msgstr "Program som automatiskt aktiverar Caffeine"
+
+#: prefs.js:150
+msgid "Add application"
+msgstr "Lägg till program"
+
+#: prefs.js:164
+msgid "Create new matching rule"
+msgstr "Skapa ny matchande regel"
+
+#: prefs.js:168
+msgid "Add"
+msgstr "Lägg till"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:6
+msgid "Application list"
+msgstr "Programlista"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:7
+msgid ""
+"A list of strings, each containing an application id (desktop file name)"
+msgstr "En lista av strängar med program-ID:n (skrivbordets filnamn)"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:11
+msgid "Store caffeine user state"
+msgstr "Spara caffeines användarstatus"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:16
+msgid "Restore caffeine state"
+msgstr "Återställ caffeine-status"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:21
+msgid "Show indicator"
+msgstr "Visa indikator"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:22
+msgid "Show the indicator on the top panel"
+msgstr "Visa indikator i panelen"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:26
+msgid "Address inhibitor"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:27
+msgid "Show apps inhibiting suspend or screensaver on the popup menu"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:31
+msgid "Show notifications"
+msgstr "Visa notifieringar"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:32
+msgid "Show notifications when enabled/disabled"
+msgstr "Visa notifieringar vid aktivering/inaktivering"
+
+#~ msgid "Auto suspend and screensaver disabled"
+#~ msgstr "Automatiskt vänteläge och skärmsläckare inaktiverade"
+
+#~ msgid "Auto suspend and screensaver enabled"
+#~ msgstr "Automatiskt vänteläge och skärmsläckare aktiverade"

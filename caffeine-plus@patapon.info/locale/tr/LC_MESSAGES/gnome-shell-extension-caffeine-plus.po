@@ -1,0 +1,120 @@
+# Caffeine Türkçe çeviri dosyası
+# Hüseyin Karacabey <neynefes@ubuntu-tr.net>, 2017.
+# Serdar Sağlam <teknomobil@yandex.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell-extension-caffeine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-05 09:19-0400\n"
+"PO-Revision-Date: 2019-03-21 06:48+0300\n"
+"Last-Translator: Serdar Sağlam <teknomobil@yandex.com>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Gtranslator 3.32.0\n"
+
+#: menu.js:40
+msgid "Inhibit suspend globally"
+msgstr ""
+
+#: menu.js:137
+msgid "No open windows"
+msgstr ""
+
+#: prefs.js:45
+msgid "Show Caffeine in top panel"
+msgstr "Caffeine üst panelde görünsün"
+
+#: prefs.js:62 schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:36
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:37
+msgid "Enable when a fullscreen application is running"
+msgstr "Tam ekran uygulama çalıştırıldığı zaman aktif olacaktır"
+
+#: prefs.js:79
+msgid "Restore state across reboots"
+msgstr "Yeniden başlatma arasında durumu geri yükle"
+
+#: prefs.js:96
+msgid ""
+"Address Inhibiting Apps including from system(like playing video via "
+"browser, wouldn't missed any app, but not precisely)"
+msgstr ""
+
+#: prefs.js:113
+msgid "Enable notifications"
+msgstr "Bildirimleri aktif et"
+
+#: prefs.js:134
+msgid "Applications which enable Caffeine automatically"
+msgstr "Kafeini otomatik olarak etkinleştiren uygulamalar"
+
+#: prefs.js:150
+msgid "Add application"
+msgstr "Uygulama ekle"
+
+#: prefs.js:164
+msgid "Create new matching rule"
+msgstr "Yeni eşleşme kuralı oluştur"
+
+#: prefs.js:168
+msgid "Add"
+msgstr "Ekle"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:6
+msgid "Application list"
+msgstr "Uygulama listesi"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:7
+msgid ""
+"A list of strings, each containing an application id (desktop file name)"
+msgstr ""
+"Her biri bir uygulama kimliği içeren bir dize listesi (masaüstü dosya adı)"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:11
+msgid "Store caffeine user state"
+msgstr "Kafein kullanıcı durumunu sakla"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:16
+msgid "Restore caffeine state"
+msgstr "Kafein durumunu geri yükle"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:21
+msgid "Show indicator"
+msgstr "Göstergeyi göster"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:22
+msgid "Show the indicator on the top panel"
+msgstr "Göstergeyi üst panelde göster"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:26
+msgid "Address inhibitor"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:27
+msgid "Show apps inhibiting suspend or screensaver on the popup menu"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:31
+msgid "Show notifications"
+msgstr "Bildirimleri göster"
+
+#: schemas/org.gnome.shell.extensions.caffeine-plus.gschema.xml:32
+msgid "Show notifications when enabled/disabled"
+msgstr "Aktif/Pasif olduğunda bildirimleri göster"
+
+#~ msgid "Auto suspend and screensaver disabled"
+#~ msgstr "Ekran koruyucu ve otomatik karartma kapalı"
+
+#~ msgid "Auto suspend and screensaver enabled"
+#~ msgstr "Ekran koruyucu ve otomatik karartma açık"
+
+#~ msgid "Caffeine enabled"
+#~ msgstr "Caffeine aktif"
+
+#~ msgid "Caffeine disabled"
+#~ msgstr "Caffeine pasif"
